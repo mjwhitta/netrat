@@ -1,5 +1,7 @@
 # NetRat
 
+<a href="https://www.buymeacoffee.com/mjwhitta">🍪 Buy me a cookie</a>
+
 A very simple Ruby implementation of netcat.
 
 ## How to install
