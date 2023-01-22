@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
     s.description = "Very simple Ruby implementation of netcat."
     s.email = "mj@whitta.dev"
     s.files = Dir["lib/**/*.rb"]
-    s.homepage = "https://gitlab.com/mjwhitta/netrat"
+    s.homepage = "https://github.com/mjwhitta/netrat"
     s.license = "GPL-3.0"
     s.metadata = {"source_code_uri" => s.homepage}
     s.name = "netrat"

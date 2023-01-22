@@ -26,7 +26,7 @@ nr.connect
 
 ## Links
 
-- [Source](https://gitlab.com/mjwhitta/netrat)
+- [Source](https://github.com/mjwhitta/netrat)
 - [RubyGems](https://rubygems.org/gems/netrat)
 
 ## TODO
